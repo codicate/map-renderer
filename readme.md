@@ -4,9 +4,9 @@ This project uses graph and djikstra's algorithm to render map from data file an
 
 ### Usage
 
-`input/[map].txt --show --directions [start] [end]`
+`java StreetMap input/[map].txt --show --directions [start] [end]`
 
-`input/monroe.txt --show --directions i3232 i5942`
+`java StreetMap input/monroe.txt --show --directions i3232 i5942`
 
 ### Explaination
 
